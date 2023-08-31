@@ -1,1 +1,1 @@
-show hidden files
+listing by digit
