@@ -1,1 +1,1 @@
-This changes to user home directory
+listing in long format
